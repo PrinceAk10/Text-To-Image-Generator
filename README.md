@@ -37,7 +37,7 @@ The generated image is displayed on the page.
 bash
 Copy
 Edit
-git clone https://github.com/your-username/text-to-image-generator.git
+git clone https://github.com/PrinceAk10/Text-To-Image-Generator
 cd text-to-image-generator
 2. Get Your Hugging Face API Token
 Go to Hugging Face
